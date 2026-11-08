@@ -1,0 +1,13 @@
+{
+  "latestVersion": "1.0.0",
+  "minimumVersion": "1.0.0",
+  "downloadUrl": "https://github.com/bera-tech-ai/cinemax-v1/releases",
+  "forceUpdate": false,
+  "publishedAt": "2026-11-08",
+  "message": "CINEMAX is ready for your next watch.",
+  "releaseNotes": [
+    "Live movie and series search",
+    "Episode-aware streaming and downloads",
+    "Android download progress notifications"
+  ]
+}
