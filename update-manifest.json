@@ -1,14 +1,13 @@
 {
-  "latestVersion": "1.0.1",
-  "minimumVersion": "1.0.1",
-  "downloadUrl": "https://raw.githubusercontent.com/bera-tech-ai/cinemax-update-manifest/main/CINEMAX-1.0.1.apk",
+  "latestVersion": "1.0.3",
+  "minimumVersion": "1.0.2",
+  "downloadUrl": "https://expo.dev/artifacts/eas/DQdn9OOAg8XqpkbZooeSL1uVltPAkQ2JUm8nVHxvn3k.apk",
   "forceUpdate": false,
-  "publishedAt": "2026-11-08",
-  "message": "CINEMAX 1.0.1 is ready for your next watch.",
+  "publishedAt": "2026-11-09",
+  "message": "CINEMAX 1.0.3 is ready. Tap Update now to download the latest Android APK.",
   "releaseNotes": [
-    "APK-parity streaming and downloads",
-    "Reliable token refresh after app reopen",
-    "Paused downloads resume correctly after relaunch",
-    "Android download progress notifications"
+    "Live search works on the published app and Android build",
+    "Updated production API origin handling",
+    "Improved update link to the direct APK installer"
   ]
 }
